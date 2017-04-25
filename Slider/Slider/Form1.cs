@@ -73,5 +73,10 @@ namespace Slider
         {
             isMouseDown = false;
         }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            t.Abort();
+        }
     }
 }

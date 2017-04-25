@@ -34,3 +34,6 @@ C:\Users\Martin\Desktop\Programmering\Slider\Slider\obj\Debug\Slider.csprojResol
 C:\Users\Martin\Desktop\Programmering\Slider\Slider\obj\Debug\Slider.Form1.resources
 C:\Users\Martin\Desktop\Programmering\Slider\Slider\obj\Debug\Slider.Properties.Resources.resources
 C:\Users\Martin\Desktop\Programmering\Slider\Slider\obj\Debug\Slider.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\GitHub\Slider\Slider\Slider\bin\Debug\Slider.exe.config
+C:\Users\Martin\Documents\GitHub\Slider\Slider\Slider\obj\Debug\Slider.exe
+C:\Users\Martin\Documents\GitHub\Slider\Slider\Slider\obj\Debug\Slider.pdb
